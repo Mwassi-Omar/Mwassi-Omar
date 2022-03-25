@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mwassi-Omar
+- 🌱 I’m currently learning CS as a freshman.
+- 📫 How to reach me: ormcollege@gmail.com
